@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm glad you're here.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20Prasaint's%20GitHub&fontSize=35&fontColor=58a6ff&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20Prasaint's%20GitHub&fontSize=35&fontColor=29903b&animation=fadeIn" alt="Header" />
 
 ---
 
@@ -10,7 +9,7 @@ Welcome to my GitHub! I'm glad you're here.
 
 - 💻 I'm a **self-taught developer** with a passion for learning and building cool things.
 - 🛸 Not currently in a job — working full-time on a **top-secret project** 🤫.
-- 🌱 Exploring **Python** while building on my frontend and C++ skills.
+- 🌱 Exploring **Python** hunting to jungle.
 - 🚀 I love turning ideas into reality using code.
 - 🤝 Open to collaboration and learning from fellow developers.
 
@@ -21,11 +20,22 @@ Welcome to my GitHub! I'm glad you're here.
 **Languages & Tools I Use:**
 
 - 👨‍💻 Frontend: `React.js ⚛️`, `HTML5`, `CSS3`, `JavaScript`
-- 🗃️ Backend: `SQL`
-- 🧠 Programming: `C++`, `Python` *(currently learning)*
+- ⚙️ Backend Language: `Javascript`, `Python`, `php`
+- 🧠I know this language very well to develop full application well.
+- 🗃️ Database: `C++`, `Python` *(currently learning)*
 
 ---
 
+### 📫 Contact Me
+
+📧 **Email:** [prashantkhadkapass@gmail.com](mailto:prashantkhadkapass@gmail.com)
+
+
+### 🧠 Inspiration
+
+> “Stay hungry, stay foolish.” — *Steve Jobs*
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -38,20 +48,3 @@ Welcome to my GitHub! I'm glad you're here.
 
 ---
 
-### 📫 Contact Me
-
-📧 **Email:** [prashantkhadkapass@gmail.com](mailto:prashantkhadkapass@gmail.com)
-
----
-
-### 🧮 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prasaint&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
-</p>
-
----
-
-### 🧠 Inspiration
-
-> “Stay hungry, stay foolish.” — *Steve Jobs*
