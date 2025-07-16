@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I'm glad you're here.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20Prasaint's%20GitHub&fontSize=35&fontColor=58a6ff&animation=fadeIn" alt="Header" />
+
 ---
 
 ### 🧠 About Me
@@ -21,11 +23,3 @@ Languages & Tools I Use:
 - Frontend: React.js ⚛️ | HTML5 | CSS3 | JavaScript
 - Backend: SQL
 - Programming: C++ | Python (learning...)
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prasaint&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasaint&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasaint&layout=compact&theme=tokyonight" alt="Top Languages" /> <br /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasaint&theme=tokyonight" alt="Profile Summary Card" /> </p>
-
-📫 Contact Me
-📧 Email me at: prashantkhadkapass@gmail.com
-
-“Stay hungry, stay foolish.” — Steve Jobs
