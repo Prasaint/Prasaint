@@ -19,11 +19,12 @@
 
 **Languages & Tools I Use:**
 
-- 👨‍💻 Frontend: `HTML5`, `CSS3`, `JavaScript`, `Framework-React.js ⚛️`
-- ⚙️ Backend Language:`Python-Django`
+- 👨‍💻 Frontend: `HTML5`, `CSS3`, `JavaScript`, `Framework(React.js ⚛️)`
+- ⚙️ Backend Language:`Python(Django)`
 - 🗃️ Database: `PostgreSQL`
 - Skill: `Available to create FullStack website`,`AI/Ml-learning`
 - Short Description: `Computer Science Student`
+- Known language: `C`, `C++`, `Php`, `Javascript`, `SQL`
 
 ---
 
